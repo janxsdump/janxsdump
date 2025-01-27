@@ -1,8 +1,9 @@
-## Olá! 👋
+##  Olá! 👋
+### Sou Janx,
 
-- 🎮 Atualmente jogando: Idle Clans!
-- 👾 Trabalhando na Ctrl+Play!
-- 📚 Aprendendo muito!
+- 🛡 Obsessão atual: Idle Clans!
+- 🚀 Trabalhando na Ctrl+Play!
+- 📚 E aprendendo muito!
 <!--
 **janxsdump/janxsdump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
